@@ -1,0 +1,36 @@
+---
+title: "Elshan Garashli"
+---
+
+::: {.home-header}
+## Elshan Garashli
+
+PhD Candidate in Economics  
+University of Graz
+:::
+
+::: {.home-intro}
+::: {.home-text}
+I am an economist working in microeconomic theory, information economics, communication games, and information design. My research studies strategic communication, especially how information structures shape what can be credibly communicated in games.
+
+I am on the academic job market in economics.
+:::
+
+::: {.home-photo}
+![](aktualles_foto_homepage_new.jpg){fig-alt="Elshan Garashli" .profile-photo}
+:::
+:::
+
+### Research Fields
+
+Microeconomic Theory, Information Economics, Communication Games, Information Design
+
+### Contact
+
+Institute of Economics  
+University of Graz  
+Graz, Austria  
+
+Email: [elshan.garashli@gmail.com](mailto:elshan.garashli@gmail.com)  
+CV: [Download PDF](files/cv_elshan_garashli_unigraz.pdf)
+

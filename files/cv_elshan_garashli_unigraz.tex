@@ -1,0 +1,223 @@
+% Academic CV for Elshan Garashli
+% Adapted from the CU Boulder Economics CV template for University of Graz.
+
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{textcomp}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\usepackage{needspace}
+
+% University of Graz corporate colors.
+\definecolor{unigrazyellow}{RGB}{255,213,0}
+\definecolor{unigrazblack}{RGB}{0,0,0}
+\definecolor{unigrazgray}{RGB}{204,204,204}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\thepage}
+
+\titleformat{\section}
+  {\Large\bfseries\color{unigrazblack}}
+  {}
+  {0em}
+  {}
+
+\titlespacing*{\section}{0pt}{1.5ex}{0.7ex}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=unigrazblack,
+  urlcolor=unigrazblack
+}
+
+\setlist[itemize]{leftmargin=*,topsep=0.1em,itemsep=0.25em,parsep=0em}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.25em}
+
+\newcommand{\unigrazmark}{%
+  {\normalsize\bfseries University of Graz}%
+}
+
+\newcommand{\entry}[2]{%
+  \par\noindent
+  \begin{minipage}[t]{0.73\textwidth}
+    \raggedright #1
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{0.24\textwidth}
+    \raggedleft\itshape #2
+  \end{minipage}%
+  \par
+}
+
+\newcommand{\cvsection}[1]{%
+  \Needspace{6\baselineskip}%
+  \section*{#1}%
+}
+
+\begin{document}
+
+\begin{minipage}[t]{0.56\textwidth}
+  \raggedright
+  {\huge\scshape Elshan Garashli}\\[0.2em]
+  {\large PhD Candidate in Economics}\\[0.45em]
+  Institute of Economics\\
+  University of Graz\\
+  Graz, Austria
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.38\textwidth}
+  \raggedleft
+  \unigrazmark\\[0.7em]
+  \href{mailto:elshan.garashli@gmail.com}{elshan.garashli@gmail.com}\\
+  Homepage: \href{https://elshangarashli.com}{elshangarashli.com}\\
+  Last updated: July 2026
+\end{minipage}
+
+\vspace{0.6em}
+{\color{unigrazgray}\rule{\textwidth}{0.5pt}}
+
+\cvsection{Education}
+\entry{\textbf{University of Graz}, Austria}{2020--2026 (exp.)}
+PhD in Economics\\
+\textit{Dissertation:} ``Robust Strategic Communication''\\
+\textit{Supervisor:} Prof. \href{https://sites.google.com/view/christoph-kuzmics}{Christoph Kuzmics}
+
+\medskip
+\entry{\textbf{University of Vienna}, Austria}{2019}
+MSc in Economics\\
+\textit{Thesis:} ``On the Intertemporal Inefficiency of Competitive Investments in Artificial General Intelligence''\\
+\textit{Supervisor:} Prof. \href{https://scholar.google.com/citations?user=S-NOuSEAAAAJ&hl=en}{Franz Wirl}
+
+\medskip
+\entry{\textbf{University of Vienna}, Austria}{2015}
+BSc in Economics
+
+\cvsection{Academic Positions and Visits}
+\entry{\textbf{University Assistant}, Department for Organization and Institutional Economics, University of Graz}{11/2026--present}
+
+\medskip
+\entry{\textbf{University Assistant}, Institute of Economics, University of Graz}{10/2020--09/2025}
+
+\medskip
+\entry{\textbf{Visiting PhD Student}, Department of Economics, University of Colorado Boulder}{10/2024--11/2024}
+Host: \href{https://www.ernestoriveramora.com/}{Ernesto Rivera Mora}
+
+\medskip
+\entry{\textbf{Visiting PhD Student}, Department of Economics, University of Arizona}{09/2023--12/2023}
+Hosts: \href{https://sites.google.com/site/andreas3blume/}{Andreas Blume} and \href{https://ingadeimen.weebly.com/}{Inga Deimen}
+
+\medskip
+\entry{\textbf{Researcher}, Energy Economics Group, Vienna University of Technology}{10/2019--09/2020}
+
+\medskip
+\entry{\textbf{Teaching and Research Assistant}, University of Vienna}{09/2017--09/2018}
+Chair of Industry, Energy and Environment, Faculty of Business, Economics and Statistics
+
+\cvsection{Research Fields}
+Microeconomic Theory, Information Economics, Communication Games, Information Design
+
+\begin{samepage}
+\Needspace{7\baselineskip}
+\cvsection{References}
+\textbf{Prof. Christoph Kuzmics}\\
+Department of Economics, University of Graz\\
+christoph [dot] kuzmics [at] uni-graz [dot] at
+\end{samepage}
+
+\cvsection{Working Papers}
+\begin{itemize}[label={}]
+  \item \textbf{``Correlation and Robust Communication among Experts''} \hfill 2026\\
+  Job Market Paper
+  \item \textbf{``When Are Bargaining Power Weights Portable? Translation Maps Across Supply Chain Architectures''} \hfill 2026\\
+  \textit{With Michael Kopel and Toshiaki Wakabayashi}
+  \item \textbf{``Bargaining and Information Architecture in Supply Chains''} \hfill 2026\\
+  \textit{With Michael Kopel}
+  \item \textbf{``Desire-Based Inheritance and Costly Claims''} \hfill 2026
+  \item \textbf{\href{https://arxiv.org/abs/2309.04193}{``Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives''}} \hfill 2024\\
+  \textit{With \href{https://pub.uni-bielefeld.de/person/182054}{Jan-Henrik Steg}, \href{https://www.michaelgreinecker.com/}{Michael Greinecker}, and \href{https://sites.google.com/view/christoph-kuzmics}{Christoph Kuzmics}}\\
+  Revise and Resubmit at \textit{Games and Economic Behavior}
+  \item
+  \begin{minipage}[t]{0.84\textwidth}
+    \textbf{``Full Revelation via Cheap Talk with a Sender Who Observes an Aggregate State''}
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{0.12\textwidth}
+    \raggedleft 2025
+  \end{minipage}
+  \item \textbf{``Objective and Polarized Newspapers in News Feeds''} \hfill 2024
+  \item \textbf{``Multi-Sender Cheap Talk with Verification''} \hfill 2024
+\end{itemize}
+
+\cvsection{Fellowships, Grants, and Awards}
+\begin{itemize}[label={}]
+  \item Full Grant for the 8th Lindau Nobel Meeting in Economic Sciences, Austrian Federal Ministry of Education, Science and Research \hfill 2025
+  \item Dissertation Fellowship, National\"okonomische Gesellschaft (NOeG), \texteuro{}4,000 \hfill 2024
+  \item Thesis/Dissertation Scholarship, SBESS, \texteuro{}3,600 \hfill 2024
+  \item Research Grant, OeNB Jubil\"aumsfonds, Oesterreichische Nationalbank \hfill 2023
+  \item Thesis/Dissertation Scholarship, SBESS, \texteuro{}3,600 \hfill 2023
+\end{itemize}
+
+\cvsection{Teaching Experience}
+\textbf{University of Graz}
+
+\entry{Introduction to Management Accounting, bachelor's students (\textit{German})}{Summer term 2027 (scheduled)}
+\entry{Quantitative Research Methods 2, master's students (\textit{German/English})}{Summer term 2027 (scheduled)}
+\entry{Master Seminar (Organization and Institutional Economics), master's students (\textit{German/English})}{Winter term 2026/27 (scheduled)}
+\entry{Quantitative Research Methods 2, master's students (\textit{German/English})}{Winter term 2026/27 (scheduled)}
+\entry{Quantitative Research Methods 2, master's students (\textit{German/English})}{Summer term 2026}
+\entry{Microeconomics for bachelor's students (\textit{German})}{Summer term 2024}
+\entry{Game Theory for master's students (\textit{English})}{Winter term 2023/24}
+\entry{Macroeconomics for bachelor's students (\textit{German})}{Summer term 2023}
+\entry{Macroeconomics for bachelor's students (\textit{German})}{Winter term 2022/23}
+\entry{Macroeconomics for bachelor's students (\textit{German})}{Summer term 2022}
+\entry{Macroeconomics for bachelor's students (\textit{German})}{Winter term 2021/22}
+\entry{Macroeconomics for bachelor's students (\textit{German})}{Summer term 2021}
+\entry{Macroeconomics for bachelor's students (\textit{German})}{Winter term 2020/21}
+
+\medskip
+\entry{\textbf{Vienna University of Technology}: Master's seminar and co-supervision of master's and bachelor's theses}{2019--2020}
+
+\medskip
+\entry{\textbf{University of Vienna}: Teaching assistance and exam reviews in applied microeconomics and game theory}{2017--2018}
+
+\cvsection{Presentations at Conferences, Seminars and Summer Schools}
+\begin{itemize}[label={}]
+  \item SAET, Rio de Janeiro \hfill July 2026
+  \item PET, Rio de Janeiro \hfill July 2026
+  \item Annual Conference of the Austrian Economic Association (NOeG), Krems \hfill September 2025
+  \item 18th RGS Doctoral Conference in Economics, TU Dortmund University \hfill February 2025
+  \item BIGSEM-Workshop, University of Bielefeld \hfill December 2024
+  \item IO/Micro Brownbag, University of Colorado Boulder \hfill November 2024
+  \item Seminar Talk, ADA University, Baku \hfill September 2024
+  \item
+  \begin{minipage}[t]{0.78\textwidth}
+    Summer School Recent Advances in Mechanism and Information Design, University of Bonn
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{0.18\textwidth}
+    \raggedleft August 2024
+  \end{minipage}
+  \item Seminar Talk, Universit\`a Ca' Foscari, Venice \hfill June 2024
+  \item Central European Program in Economic Theory Workshop, University of Udine \hfill June 2024
+  \item Vienna Economics PhD Workshop, Central European University, Vienna \hfill April 2024
+  \item SAET, University of Chile, Santiago \hfill January 2024
+  \item IBE Theory Lunch, University of Arizona \hfill October 2023
+\end{itemize}
+
+\cvsection{Additional Information}
+\textbf{Languages:} Azerbaijani (native), English (fluent), German (fluent), Turkish (fluent), Russian (intermediate)\\
+\textbf{Software:} Python, Matlab, R, Mathematica\\
+\textbf{Citizenship:} Austria
+
+\end{document}

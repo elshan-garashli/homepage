@@ -1,0 +1,12 @@
+---
+title: "CV"
+---
+
+You can download my current academic CV here:
+
+[Download CV (PDF)](files/cv_elshan_garashli_unigraz.pdf){.btn .btn-primary}
+
+[Download CV source (TeX)](files/cv_elshan_garashli_unigraz.tex)
+
+The CV is intended for the academic job market in economics and is updated periodically.
+

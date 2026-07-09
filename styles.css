@@ -1,0 +1,81 @@
+body {
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.navbar-title {
+  font-weight: 600;
+}
+
+.page-layout-full .page-columns {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.home-header {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #d0d0d0;
+}
+
+.home-header h2 {
+  margin-bottom: 0.25rem;
+  font-size: 2.3rem;
+}
+
+.home-intro {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.home-text {
+  flex: 1 1 0;
+}
+
+.home-photo {
+  flex: 0 0 260px;
+}
+
+.profile-photo {
+  width: 260px;
+  max-width: 100%;
+  border-radius: 6px;
+}
+
+h1,
+h2,
+h3 {
+  color: #111111;
+}
+
+a {
+  color: #0055a4;
+}
+
+a:hover {
+  color: #003f7a;
+}
+
+.btn-primary {
+  background-color: #111111;
+  border-color: #111111;
+}
+
+.btn-primary:hover {
+  background-color: #333333;
+  border-color: #333333;
+}
+
+@media (max-width: 720px) {
+  .home-intro {
+    flex-direction: column-reverse;
+  }
+
+  .home-photo {
+    flex-basis: auto;
+  }
+}
+

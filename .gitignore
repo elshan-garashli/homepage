@@ -1,0 +1,13 @@
+.quarto/
+docs/
+.DS_Store
+cv/
+texput.log
+*.aux
+*.log
+*.out
+
+
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+    - files/cv_elshan_garashli_unigraz.pdf
+    - files/cv_elshan_garashli_unigraz.tex
+
+website:
+  title: "Elshan Garashli"
+  site-url: "https://elshangarashli.com"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+  page-footer:
+    left: "Elshan Garashli"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+

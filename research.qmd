@@ -1,0 +1,42 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+### Correlation and Robust Communication among Experts
+
+**Job Market Paper, 2026**
+
+Multiple experts often observe information that is nearly, but not exactly, common. I study a multi-sender cheap talk model in which correlation determines which message profiles are disciplined by Bayes' rule. Full revelation can be supported under perfect correlation, but any independent component rules it out; nevertheless, informative equilibria exist at every imperfect-correlation level.
+
+### When Are Bargaining Power Weights Portable? Translation Maps Across Supply Chain Architectures
+
+**With Michael Kopel and Toshiaki Wakabayashi, 2026**
+
+### Bargaining and Information Architecture in Supply Chains
+
+**With Michael Kopel, 2026**
+
+### Desire-Based Inheritance and Costly Claims
+
+**2026**
+
+### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://arxiv.org/abs/2309.04193)
+
+**With [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics), 2024**
+
+Revise and Resubmit at *Games and Economic Behavior*.
+
+### Full Revelation via Cheap Talk with a Sender Who Observes an Aggregate State
+
+**2025**
+
+### Objective and Polarized Newspapers in News Feeds
+
+**2024**
+
+### Multi-Sender Cheap Talk with Verification
+
+**2024**
+
