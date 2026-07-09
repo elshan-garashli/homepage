@@ -8,9 +8,9 @@ title: "Research"
 
 **Job Market Paper, 2026**
 
-Multiple experts often observe information that is nearly, but not exactly, common. I study a multi-sender cheap talk model in which correlation determines which message profiles are disciplined by Bayes' rule. Full revelation can be supported under perfect correlation, but any independent component rules it out; nevertheless, informative equilibria exist at every imperfect-correlation level.
+Multiple experts often observe information that is nearly, but not exactly, common. I study a multi-sender cheap talk model in which correlation determines which message profiles are disciplined by Bayes' rule. Full revelation can be supported under perfect correlation, but any independent component rules it out. The discontinuity is sharp: once information is even slightly imperfectly correlated, the robust forms of communication that remain are coarse and far from full disclosure. These equilibria can take different asymmetric forms, including partitional and nonpartitional strategies, but they do not approximate full revelation.
 
-### When Are Bargaining Power Weights Portable? Translation Maps Across Supply Chain Architectures
+### Bargaining Power Weights Are Not Portable: Realized Position and Protocol Choice in Supply Chains
 
 **With Michael Kopel and Toshiaki Wakabayashi, 2026**
 

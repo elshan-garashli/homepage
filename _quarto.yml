@@ -4,7 +4,6 @@ project:
   resources:
     - CNAME
     - files/cv_elshan_garashli_unigraz.pdf
-    - files/cv_elshan_garashli_unigraz.tex
 
 website:
   title: "Elshan Garashli"
@@ -18,7 +17,7 @@ website:
       - text: Teaching
         href: teaching.qmd
       - text: CV
-        href: cv.qmd
+        href: files/cv_elshan_garashli_unigraz.pdf
   page-footer:
     left: "Elshan Garashli"
     right: "Built with Quarto"
