@@ -20,7 +20,6 @@ website:
         href: files/cv_elshan_garashli_unigraz.pdf
   page-footer:
     left: "Elshan Garashli"
-    right: "Built with Quarto"
 
 format:
   html:
