@@ -3,7 +3,7 @@ project:
   output-dir: docs
   resources:
     - CNAME
-    - files/cv_elshan_garashli_unigraz.pdf
+    - assets/cv_elshan_garashli_unigraz.pdf
 
 website:
   title: "Elshan Garashli"
@@ -17,7 +17,7 @@ website:
       - text: Teaching
         href: teaching.qmd
       - text: CV
-        href: files/cv_elshan_garashli_unigraz.pdf
+        href: assets/cv_elshan_garashli_unigraz.pdf
   page-footer:
     left: "Elshan Garashli"
 

@@ -2,15 +2,22 @@
 
 This is a simple academic homepage built with [Quarto](https://quarto.org/).
 
+## Structure
+
+- `index.qmd`, `research.qmd`, and `teaching.qmd` are the site pages.
+- `assets/` contains public files used by the site, including the profile photo and CV PDF.
+- `_quarto.yml` configures the site and navigation.
+- `styles.css` contains custom styling.
+
 ## Local Preview
 
-Install Quarto, then run:
+Preview the site locally:
 
 ```bash
 quarto preview
 ```
 
-To render the site locally:
+Render the site locally:
 
 ```bash
 quarto render
@@ -18,22 +25,13 @@ quarto render
 
 The rendered website is written to `docs/`.
 
-## Publishing with GitHub Pages
+## Publishing
 
-This repository includes a GitHub Actions workflow at `.github/workflows/publish.yml`.
-
-After pushing the repository to GitHub:
-
-1. Open the repository settings on GitHub.
-2. Go to `Pages`.
-3. Set the source to `GitHub Actions`.
-4. Push to the `main` branch, or run the workflow manually.
+Commit changes and push to `main`. GitHub Actions renders the site and publishes it with GitHub Pages.
 
 The `CNAME` file configures the custom domain:
 
 ```text
 elshangarashli.com
 ```
-
-At the domain registrar, point the domain to GitHub Pages using GitHub's recommended DNS records.
 

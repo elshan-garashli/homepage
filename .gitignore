@@ -1,13 +1,24 @@
+# Quarto generated files
 .quarto/
+.quarto-install/
 docs/
+*_files/
+**/*.quarto_ipynb
+
+# macOS and local build files
 .DS_Store
-cv/
 texput.log
+
+# LaTeX build outputs
 *.aux
+*.bbl
+*.fdb_latexmk
+*.fls
 *.log
 *.out
+*.synctex.gz
 
-
+# Keep CV sources outside this public homepage repo.
+cv/
 
 /.quarto/
-**/*.quarto_ipynb

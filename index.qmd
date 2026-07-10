@@ -9,11 +9,11 @@ My research focuses on microeconomic theory, information economics, communicatio
 
 I will be on the academic job market in 2026-27.
 
-You can find my [CV here](files/cv_elshan_garashli_unigraz.pdf).
+You can find my [CV here](assets/cv_elshan_garashli_unigraz.pdf).
 :::
 
 ::: {.home-photo}
-![](aktualles_foto_homepage_new.jpg){fig-alt="Elshan Garashli" .profile-photo}
+![](assets/profile.jpg){fig-alt="Elshan Garashli" .profile-photo}
 :::
 :::
 
