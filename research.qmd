@@ -4,7 +4,7 @@ title: "Research"
 
 ## Working Papers
 
-### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://arxiv.org/abs/2309.04193)
+### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://arxiv.org/pdf/2309.04193)
 
 **With [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics), 2024**
 
