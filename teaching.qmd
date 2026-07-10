@@ -4,47 +4,24 @@ title: "Teaching"
 
 ## University of Graz
 
-- Introduction to Management Accounting, bachelor's students (*German*)  
-  Summer term 2027 (scheduled)
-
-- Quantitative Research Methods 2, master's students (*German/English*)  
-  Summer term 2027 (scheduled)
-
-- Master Seminar (Organization and Institutional Economics), master's students (*German/English*)  
-  Winter term 2026/27 (scheduled)
-
-- Quantitative Research Methods 2, master's students (*German/English*)  
-  Winter term 2026/27 (scheduled)
-
-- Quantitative Research Methods 2, master's students (*German/English*)  
-  Summer term 2026
-
-- Microeconomics for bachelor's students (*German*)  
-  Summer term 2024
-
-- Game Theory for master's students (*English*)  
-  Winter term 2023/24
-
-- Macroeconomics for bachelor's students (*German*)  
-  Summer term 2023
-
-- Macroeconomics for bachelor's students (*German*)  
-  Winter term 2022/23
-
-- Macroeconomics for bachelor's students (*German*)  
-  Summer term 2022
-
-- Macroeconomics for bachelor's students (*German*)  
-  Winter term 2021/22
-
-- Macroeconomics for bachelor's students (*German*)  
-  Summer term 2021
-
-- Macroeconomics for bachelor's students (*German*)  
-  Winter term 2020/21
+| Course | Level and language | Term |
+|---|---|---|
+| Introduction to Management Accounting | Undergraduate, German | Summer term 2027 (scheduled) |
+| Quantitative Research Methods 2 | Graduate, German/English | Summer term 2027 (scheduled) |
+| Organization and Institutional Economics Seminar | Graduate, German/English | Winter term 2026/27 (scheduled) |
+| Quantitative Research Methods 2 | Graduate, German/English | Winter term 2026/27 (scheduled) |
+| Quantitative Research Methods 2 | Graduate, German/English | Summer term 2026 |
+| Microeconomics | Undergraduate, German | Summer term 2024 |
+| Game Theory | Graduate, English | Winter term 2023/24 |
+| Macroeconomics | Undergraduate, German | Summer term 2023 |
+| Macroeconomics | Undergraduate, German | Winter term 2022/23 |
+| Macroeconomics | Undergraduate, German | Summer term 2022 |
+| Macroeconomics | Undergraduate, German | Winter term 2021/22 |
+| Macroeconomics | Undergraduate, German | Summer term 2021 |
+| Macroeconomics | Undergraduate, German | Winter term 2020/21 |
 
 ## Previous Teaching
 
-- Vienna University of Technology: Master's seminar and co-supervision of master's and bachelor's theses, 2019--2020.
+- Vienna University of Technology: Graduate seminar and co-supervision of graduate and undergraduate theses, 2019--2020.
 - University of Vienna: Teaching assistance and exam reviews in applied microeconomics and game theory, 2017--2018.
 
