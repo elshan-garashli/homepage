@@ -21,9 +21,9 @@ You can find my [CV here](assets/cv_elshan_garashli_unigraz.pdf).
 
 | Dates | Event | Location |
 |---|---|---|
-| 25–26 June | CEPET | Udine |
-| 13–18 July | SAET | Rio de Janeiro |
 | 20–23 July | PET | Rio de Janeiro |
+| 13–18 July | SAET | Rio de Janeiro |
+| 25–26 June | CEPET | Udine |
 
 ### Contact
 
