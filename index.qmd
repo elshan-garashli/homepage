@@ -5,11 +5,11 @@ University of Graz
 
 ::: {.home-intro}
 ::: {.home-text}
-My research focuses on microeconomic theory, information economics, communication games, and information design. I study strategic communication, especially how information structures shape what can be credibly communicated in games.
+Microeconomic theory with a focus on information economics and communication games.
 
-I will be on the academic job market in 2026-27.
+I will be on the academic job market in 2026–27.
 
-You can find my [CV here](assets/cv_elshan_garashli_unigraz.pdf).
+Here is my [CV](assets/cv_elshan_garashli_unigraz.pdf).
 :::
 
 ::: {.home-photo}
