@@ -21,4 +21,7 @@ texput.log
 # Keep CV sources outside this public homepage repo.
 cv/
 
+# Private job-market application materials
+/job-market-materials/
+
 /.quarto/
