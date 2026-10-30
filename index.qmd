@@ -7,13 +7,51 @@ University of Graz
 ::: {.home-text}
 I study microeconomic theory with a focus on information economics and communication games.
 
-I will be on the academic job market in 2026–27.
+I am on the academic job market in 2026–27.
 
 Here is my [CV](assets/cv_elshan_garashli_unigraz.pdf).
 :::
 
 ::: {.home-photo}
 ![](assets/profile.jpg){fig-alt="Elshan Garashli" .profile-photo}
+:::
+:::
+
+### Recent News
+
+::: {.news-list}
+::: {.news-card .news-card-featured}
+::: {.news-meta}
+[Revise & Resubmit]{.news-badge .news-badge-rr} [*Games and Economic Behavior*]{.news-venue}
+:::
+
+#### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://arxiv.org/pdf/2309.04193)
+
+::: {.news-copy .news-coauthors}
+My paper with [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics) is under revise and resubmit at *Games and Economic Behavior*.
+:::
+
+<details class="news-abstract">
+<summary>Abstract</summary>
+<p>For cheap-talk games with a binary state space in which the sender has state-independent preferences, we characterize equilibria that are robust to introducing slight state-dependence on the side of the sender. Not all equilibria are robust, but the sender-optimum is always achieved at some robust equilibrium.</p>
+</details>
+:::
+
+::: {.news-card}
+::: {.news-meta}
+[Job Market Paper]{.news-badge .news-badge-jmp} [Now online]{.news-venue}
+:::
+
+#### [Multi-sender cheap talk with almost common information](https://ideas.repec.org/p/grz/wpaper/2026-22.html)
+
+::: {.news-copy}
+My job market paper is now online.
+:::
+
+<details class="news-abstract">
+<summary>Abstract</summary>
+<p>Multiple experts often observe information that is nearly, but not exactly, common. We study a multi-sender cheap talk model with an ε-mixture prior that varies correlation while holding marginals fixed. Correlation determines which message profiles are governed by Bayes' rule. Full revelation can be supported at perfect correlation, but any independent component rules it out. This is not a collapse of communication. Informative equilibria still exist with almost common information and can be partitional or nonpartitional. With similar information, partitional equilibria survive only on a strict subset of their perfect-correlation bias region, while nonpartitional equilibria remain feasible throughout their perfect-correlation bias region.</p>
+</details>
 :::
 :::
 
