@@ -12,7 +12,9 @@ title: "Research"
 
 ### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://arxiv.org/pdf/2309.04193) <span class="paper-status-badge">Revise and Resubmit · <em>Games and Economic Behavior</em></span>
 
-With **[Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054)**, **[Michael Greinecker](https://www.michaelgreinecker.com/)**, and **[Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics)**
+::: {.paper-authors}
+With [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics)
+:::
 
 ::: {.paper-abstract}
 **Abstract.** For cheap-talk games with a binary state space in which the sender has state-independent preferences, we characterize equilibria that are robust to introducing slight state-dependence on the side of the sender. Not all equilibria are robust, but the sender-optimum is always achieved at some robust equilibrium.
