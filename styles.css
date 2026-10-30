@@ -1,41 +1,4 @@
-@font-face {
-  font-family: "Latin Modern Roman";
-  src: url("https://lalten.github.io/lmweb/font/lmroman-regular-webfont.woff") format("woff");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Latin Modern Roman";
-  src: url("https://lalten.github.io/lmweb/font/lmroman-italic-webfont.woff") format("woff");
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Latin Modern Roman";
-  src: url("https://lalten.github.io/lmweb/font/lmroman-bold-webfont.woff") format("woff");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Latin Modern Roman";
-  src: url("https://lalten.github.io/lmweb/font/lmroman-bolditalic-webfont.woff") format("woff");
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-}
-
-:root {
-  --bs-body-font-family: "Latin Modern Roman", "Times New Roman", Times, serif;
-}
-
 body {
-  font-family: var(--bs-body-font-family);
   font-size: 1.05rem;
   line-height: 1.6;
 }
