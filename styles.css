@@ -33,6 +33,7 @@ body {
 
 .home-text {
   flex: 1 1 0;
+  min-width: 0;
 }
 
 .home-photo {
@@ -46,10 +47,12 @@ body {
 }
 
 #recent-news {
-  margin-bottom: 2.75rem;
+  margin-top: 2rem;
+  margin-bottom: 0;
 }
 
 #recent-news > h3 {
+  margin-top: 0;
   margin-bottom: 1rem;
 }
 
@@ -291,13 +294,14 @@ a:hover {
   border-color: #333333;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 820px) {
   .home-intro {
-    flex-direction: column-reverse;
+    flex-direction: column;
   }
 
   .home-photo {
     flex-basis: auto;
+    align-self: center;
   }
 
   .paper-status-badge {

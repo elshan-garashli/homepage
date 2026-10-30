@@ -10,12 +10,6 @@ I study microeconomic theory with a focus on information economics and communica
 I am on the academic job market in 2026–27.
 
 Here is my [CV](assets/cv_elshan_garashli_unigraz.pdf).
-:::
-
-::: {.home-photo}
-![](assets/profile.jpg){fig-alt="Elshan Garashli" .profile-photo}
-:::
-:::
 
 ### Recent News
 
@@ -28,7 +22,7 @@ Here is my [CV](assets/cv_elshan_garashli_unigraz.pdf).
 #### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://arxiv.org/pdf/2309.04193)
 
 ::: {.news-copy .news-coauthors}
-My paper with [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics) is under revise and resubmit at *Games and Economic Behavior*.
+My paper with [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics) has received a revise-and-resubmit decision from *Games and Economic Behavior*.
 :::
 
 <details class="news-abstract">
@@ -52,6 +46,13 @@ My job market paper is now online.
 <summary>Abstract</summary>
 <p>Multiple experts often observe information that is nearly, but not exactly, common. We study a multi-sender cheap talk model with an ε-mixture prior that varies correlation while holding marginals fixed. Correlation determines which message profiles are governed by Bayes' rule. Full revelation can be supported at perfect correlation, but any independent component rules it out. This is not a collapse of communication. Informative equilibria still exist with almost common information and can be partitional or nonpartitional. With similar information, partitional equilibria survive only on a strict subset of their perfect-correlation bias region, while nonpartitional equilibria remain feasible throughout their perfect-correlation bias region.</p>
 </details>
+:::
+:::
+
+:::
+
+::: {.home-photo}
+![](assets/profile.jpg){fig-alt="Elshan Garashli" .profile-photo}
 :::
 :::
 
