@@ -4,6 +4,16 @@ title: "Research"
 
 ## Working Papers
 
+### [Multi-sender cheap talk with almost common information](https://ideas.repec.org/p/grz/wpaper/2026-22.html)
+
+**2026**
+
+Job Market Paper.
+
+### [Strategic Communication with Partial Expertise](https://ideas.repec.org/p/grz/wpaper/2026-23.html)
+
+**2026**
+
 ### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://arxiv.org/pdf/2309.04193)
 
 **With [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics), 2024**

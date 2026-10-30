@@ -8,8 +8,9 @@ title: "Teaching"
 |---|---|---|
 | Introduction to Management Accounting | Undergraduate, German | Summer term 2027 (scheduled) |
 | Quantitative Research Methods 2 | Graduate, German/English | Summer term 2027 (scheduled) |
-| Organization and Institutional Economics Seminar | Graduate, German/English | Winter term 2026/27 (scheduled) |
-| Quantitative Research Methods 2 | Graduate, German/English | Winter term 2026/27 (scheduled) |
+| Organization and Institutional Economics Seminar | Graduate, German/English | Winter term 2026/27 |
+| Seminar in Organizational Design and Incentives in Firms | Graduate, English | Winter term 2026/27 |
+| Quantitative Research Methods 2 | Graduate, German/English | Winter term 2026/27 |
 | Quantitative Research Methods 2 | Graduate, German/English | Summer term 2026 |
 | Microeconomics | Undergraduate, German | Summer term 2024 |
 | Game Theory | Graduate, English | Winter term 2023/24 |
