@@ -20,7 +20,7 @@ With [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Gre
 **Abstract.** For cheap-talk games with a binary state space in which the sender has state-independent preferences, we characterize equilibria that are robust to introducing slight state-dependence on the side of the sender. Not all equilibria are robust, but the sender-optimum is always achieved at some robust equilibrium.
 :::
 
-### [Strategic Communication with Partial Expertise](https://ideas.repec.org/p/grz/wpaper/2026-23.html)
+### [Strategic Communication with Partial Expertise](https://ideas.repec.org/p/grz/wpaper/2026-23.html) <span class="news-badge news-badge-new paper-heading-badge">New Paper</span>
 
 ::: {.paper-abstract}
 **Abstract.** Decision makers rely on experts who observe part of the information relevant to a choice. We study communication when an expert observes one component of a decision target but her observation also predicts a missing component. This indirect information can sustain communication despite conflicts of interest. The largest conflict consistent with informative communication depends on what extreme observations imply about the missing component, not on correlation alone. When this prediction is linear, higher correlation permits finer communication and raises the value of listening relative to no information. Yet this need not improve welfare because the decision itself becomes more difficult.

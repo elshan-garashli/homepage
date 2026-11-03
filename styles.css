@@ -116,6 +116,12 @@ body {
   box-shadow: 0 2px 7px rgba(111, 78, 140, 0.22);
 }
 
+.paper-heading-badge {
+  margin-left: 0.5rem;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
 .news-venue {
   color: #3f4b45;
   font-size: 0.92rem;
