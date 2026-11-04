@@ -10,7 +10,7 @@ title: "Research"
 **Abstract.** Multiple experts often observe information that is nearly, but not exactly, common. We study a multi-sender cheap talk model with an ε-mixture prior that varies correlation while holding marginals fixed. Correlation determines which message profiles are governed by Bayes' rule. Full revelation can be supported at perfect correlation, but any independent component rules it out. This is not a collapse of communication. Informative equilibria still exist with almost common information and can be partitional or nonpartitional. With similar information, partitional equilibria survive only on a strict subset of their perfect-correlation bias region, while nonpartitional equilibria remain feasible throughout their perfect-correlation bias region.
 :::
 
-### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://arxiv.org/pdf/2309.04193) <span class="paper-status-badge">Revise and Resubmit · <em>Games and Economic Behavior</em></span>
+### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://arxiv.org/pdf/2309.04193) <span class="paper-status-badge">Accepted · <em>Games and Economic Behavior</em></span>
 
 ::: {.paper-authors}
 With [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics)
