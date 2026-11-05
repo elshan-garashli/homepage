@@ -19,7 +19,7 @@ Here is my [CV](assets/cv_elshan_garashli_unigraz.pdf).
 [Accepted]{.news-badge .news-badge-accepted} [*Games and Economic Behavior*]{.news-venue}
 :::
 
-#### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://arxiv.org/pdf/2309.04193)
+#### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://doi.org/10.1016/j.geb.2026.104076)
 
 ::: {.news-copy .news-coauthors}
 My paper with [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics) has been accepted for publication in *Games and Economic Behavior*.
@@ -27,7 +27,7 @@ My paper with [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Mi
 
 <details class="news-abstract">
 <summary>Abstract</summary>
-<p>For cheap-talk games with a binary state space in which the sender has state-independent preferences, we characterize equilibria that are robust to introducing slight state-dependence on the side of the sender. Not all equilibria are robust, but the sender-optimum is always achieved at some robust equilibrium.</p>
+<p>Equilibria of cheap-talk games in which the sender has state-independent preferences are generally not robust to introducing slight dependence on the state. Some equilibria, however, can be approximated by robust equilibria of nearby cheap-talk games with slightly state-dependent sender preferences. We characterize these equilibria for all games with binary state space and show that, in particular, the maximal equilibrium payoff for the sender can always be robustly approximated in this sense.</p>
 </details>
 :::
 
