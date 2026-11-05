@@ -16,13 +16,13 @@ Here is my [CV](assets/cv_elshan_garashli_unigraz.pdf).
 ::: {.news-list}
 ::: {.news-card .news-card-featured}
 ::: {.news-meta}
-[Accepted]{.news-badge .news-badge-accepted} [*Games and Economic Behavior*]{.news-venue}
+[Forthcoming Publication]{.news-badge .news-badge-forthcoming} [*Games and Economic Behavior*]{.news-venue}
 :::
 
 #### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://doi.org/10.1016/j.geb.2026.104076)
 
 ::: {.news-copy .news-coauthors}
-My paper with [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics) has been accepted for publication in *Games and Economic Behavior*.
+My paper with [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics) is forthcoming in *Games and Economic Behavior*.
 :::
 
 <details class="news-abstract">
