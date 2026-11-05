@@ -25,7 +25,7 @@ With [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Gre
 
 ::: {.research-card .research-card-jmp}
 ::: {.news-meta}
-[Job Market Paper]{.news-badge .news-badge-jmp} [Now online]{.news-venue}
+[Job Market Paper]{.news-badge .news-badge-jmp}
 :::
 
 ### [Multi-sender cheap talk with almost common information](https://ideas.repec.org/p/grz/wpaper/2026-22.html)
@@ -38,7 +38,7 @@ With [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Gre
 
 ::: {.research-card .research-card-new}
 ::: {.news-meta}
-[New Paper]{.news-badge .news-badge-new} [Now online]{.news-venue}
+[New Paper]{.news-badge .news-badge-new}
 :::
 
 ### [Strategic Communication with Partial Expertise](https://ideas.repec.org/p/grz/wpaper/2026-23.html)
