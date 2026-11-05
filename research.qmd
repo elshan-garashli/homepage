@@ -4,27 +4,48 @@ title: "Research"
 
 ## Publications
 
-### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://doi.org/10.1016/j.geb.2026.104076) <span class="paper-status-badge">Forthcoming · <em>Games and Economic Behavior</em></span>
+::: {.research-card .research-card-publication}
+::: {.news-meta}
+[Forthcoming Publication]{.news-badge .news-badge-forthcoming} [*Games and Economic Behavior*]{.news-venue}
+:::
+
+### [Robust Equilibria in Cheap-Talk Games with Fairly Transparent Motives](https://doi.org/10.1016/j.geb.2026.104076)
 
 ::: {.paper-authors}
 With [Jan-Henrik Steg](https://pub.uni-bielefeld.de/person/182054), [Michael Greinecker](https://www.michaelgreinecker.com/), and [Christoph Kuzmics](https://sites.google.com/view/christoph-kuzmics)
 :::
 
-::: {.paper-abstract}
-**Abstract.** Equilibria of cheap-talk games in which the sender has state-independent preferences are generally not robust to introducing slight dependence on the state. Some equilibria, however, can be approximated by robust equilibria of nearby cheap-talk games with slightly state-dependent sender preferences. We characterize these equilibria for all games with binary state space and show that, in particular, the maximal equilibrium payoff for the sender can always be robustly approximated in this sense.
+<details class="news-abstract research-abstract" open>
+<summary>Abstract</summary>
+<p>Equilibria of cheap-talk games in which the sender has state-independent preferences are generally not robust to introducing slight dependence on the state. Some equilibria, however, can be approximated by robust equilibria of nearby cheap-talk games with slightly state-dependent sender preferences. We characterize these equilibria for all games with binary state space and show that, in particular, the maximal equilibrium payoff for the sender can always be robustly approximated in this sense.</p>
+</details>
 :::
 
 ## Working Papers
 
-### [Multi-sender cheap talk with almost common information](https://ideas.repec.org/p/grz/wpaper/2026-22.html) <a class="paper-badge" href="https://ideas.repec.org/p/grz/wpaper/2026-22.html">Job Market Paper</a>
-
-::: {.paper-abstract}
-**Abstract.** Multiple experts often observe information that is nearly, but not exactly, common. We study a multi-sender cheap talk model with an ε-mixture prior that varies correlation while holding marginals fixed. Correlation determines which message profiles are governed by Bayes' rule. Full revelation can be supported at perfect correlation, but any independent component rules it out. This is not a collapse of communication. Informative equilibria still exist with almost common information and can be partitional or nonpartitional. With similar information, partitional equilibria survive only on a strict subset of their perfect-correlation bias region, while nonpartitional equilibria remain feasible throughout their perfect-correlation bias region.
+::: {.research-card .research-card-jmp}
+::: {.news-meta}
+[Job Market Paper]{.news-badge .news-badge-jmp} [Now online]{.news-venue}
 :::
 
-### [Strategic Communication with Partial Expertise](https://ideas.repec.org/p/grz/wpaper/2026-23.html) <span class="news-badge news-badge-new paper-heading-badge">New Paper</span>
+### [Multi-sender cheap talk with almost common information](https://ideas.repec.org/p/grz/wpaper/2026-22.html)
 
-::: {.paper-abstract}
-**Abstract.** Decision makers rely on experts who observe part of the information relevant to a choice. We study communication when an expert observes one component of a decision target but her observation also predicts a missing component. This indirect information can sustain communication despite conflicts of interest. The largest conflict consistent with informative communication depends on what extreme observations imply about the missing component, not on correlation alone. When this prediction is linear, higher correlation permits finer communication and raises the value of listening relative to no information. Yet this need not improve welfare because the decision itself becomes more difficult.
+<details class="news-abstract research-abstract" open>
+<summary>Abstract</summary>
+<p>Multiple experts often observe information that is nearly, but not exactly, common. We study a multi-sender cheap talk model with an ε-mixture prior that varies correlation while holding marginals fixed. Correlation determines which message profiles are governed by Bayes' rule. Full revelation can be supported at perfect correlation, but any independent component rules it out. This is not a collapse of communication. Informative equilibria still exist with almost common information and can be partitional or nonpartitional. With similar information, partitional equilibria survive only on a strict subset of their perfect-correlation bias region, while nonpartitional equilibria remain feasible throughout their perfect-correlation bias region.</p>
+</details>
+:::
+
+::: {.research-card .research-card-new}
+::: {.news-meta}
+[New Paper]{.news-badge .news-badge-new} [Now online]{.news-venue}
+:::
+
+### [Strategic Communication with Partial Expertise](https://ideas.repec.org/p/grz/wpaper/2026-23.html)
+
+<details class="news-abstract research-abstract" open>
+<summary>Abstract</summary>
+<p>Decision makers rely on experts who observe part of the information relevant to a choice. We study communication when an expert observes one component of a decision target but her observation also predicts a missing component. This indirect information can sustain communication despite conflicts of interest. The largest conflict consistent with informative communication depends on what extreme observations imply about the missing component, not on correlation alone. When this prediction is linear, higher correlation permits finer communication and raises the value of listening relative to no information. Yet this need not improve welfare because the decision itself becomes more difficult.</p>
+</details>
 :::
 
